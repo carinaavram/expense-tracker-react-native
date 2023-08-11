@@ -14,4 +14,16 @@ The Expense Tracker App is a React Native application built using Expo that allo
 
 - **Input Validation:** The app offers input validation to ensure accurate expense details. User-friendly messages guide users in entering the correct format and information for expenses.
 
+- **HTTP Requests with Axios:** Axios is used to handle HTTP requests within the app. This ensures efficient communication with external APIs or services, enhancing the app's capabilities.
+
 - **Offline and Online Support:** The Expense Tracker App is designed to function both offline and online. React Context facilitates offline capabilities, allowing users to continue managing expenses even without an active internet connection. When online, the app seamlessly synchronizes data with the Firebase backend.
+
+## Technologies
+
+- React Native
+- Expo
+- React Navigation
+- Firebase (Realtime Database)
+- Axios (HTTP requests)
+- React Context
+- JavaScript (ES6+)
